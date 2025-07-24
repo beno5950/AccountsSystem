@@ -1,8 +1,21 @@
-*.ldf
-*.mdf
-*.bak
-*.zip
-*.rar
+# Visual Studio
 .vs/
 bin/
 obj/
+*.exe
+*.dll
+
+# User-specific files
+*.user
+*.suo
+
+# Database files (avoid pushing MDF/LDF)
+*.mdf
+*.ldf
+*.bak
+
+# Crystal Reports backup files (اختياري)
+Crystal Reports Backup Files/
+
+# Others
+Output-Build.txt
