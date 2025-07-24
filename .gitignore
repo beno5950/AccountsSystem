@@ -1,0 +1,8 @@
+*.ldf
+*.mdf
+*.bak
+*.zip
+*.rar
+.vs/
+bin/
+obj/
